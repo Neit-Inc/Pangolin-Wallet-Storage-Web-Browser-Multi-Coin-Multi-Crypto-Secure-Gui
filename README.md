@@ -1,6 +1,6 @@
 <div align="center">
 
-
+ 
 # Pangolin Wallet Extension
 <div align="center">
 
