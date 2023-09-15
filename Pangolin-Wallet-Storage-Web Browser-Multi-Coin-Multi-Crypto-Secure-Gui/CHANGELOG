@@ -1,0 +1,38 @@
+
+**Version 3.0.4:**
+- Fix: Remove Trezor account dialog.
+
+**Version 3.0.0:**
+- Redo UI in new QtQuick2.
+
+**Version 2.2.2:**
+- Fix: macOS X specific modal dialog issues.
+
+**Version 2.2.1:**
+- Fix: eth_estimateGas errors.
+
+**Version 2.1.1:**
+- Fix: eth_getLogs missing internalFilterID.
+
+**Version 2.1.0:**
+- Add: ERC20 support.
+- Performance improvements.
+
+**Version 2.0.4:**
+- Fix: Minor bugs introduced in 2.0.3 refactor.
+- Add: Initial ERC20 support (Work in Progress).
+
+**Version 2.0.3:**
+- Fix: Contract constant method calls (eth_call).
+- Add: Geth log copy to clipboard.
+
+**Version 2.0.2:**
+- Fix: Comma crash.
+- Fix: Transaction account alias.
+
+**Version 2.0.1:**
+- Fix: Account aliasing.
+
+**Version 2.0.0:**
+- Add: Thin client mode.
+- Add: TREZOR and Rinkeby support.
